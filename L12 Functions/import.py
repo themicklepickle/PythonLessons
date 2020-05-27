@@ -1,0 +1,2 @@
+from Divisibility_by_5_Docstring_example import divisibility_by_5(num)
+
