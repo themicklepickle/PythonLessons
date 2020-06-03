@@ -1,24 +1,24 @@
-#updating variables
+# updating variables
 
-num_students = 10 #initial number
+num_students = 10  # initial number
 print("Number of students: ", num_students)
 
-num_students += 1 #adding one student
+num_students += 1  # adding one student
 print("number of students: ", num_students)
 
-num_students -= 2 #removing 2 students
+num_students -= 2  # removing 2 students
 print("number of students: ", num_students)
 
-#remainder
+# remainder
 print(10 % 2)
 print(10 % 3)
 print(10 % 4)
 
-#quotient
+# quotient
 print(10 // 3)
 print(10 // 4)
 
-#list
+# list
 print(0 // 4, 0 % 4)
 print(1 // 4, 1 % 4)
 print(2 // 4, 2 % 4)

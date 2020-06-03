@@ -2,15 +2,15 @@ total = 0
 
 while True:
     number = input("enter a number (0 to exit): ")
-    number =  list(number)
+    number = list(number)
 
     if "/" in number:
         number1 = []
         number2 = []
-        
+
         position = int(number.index("/"))
         length = len(number)
-        
+
         for i in range(position):
             number1.append(number[i])
         number1 = "".join(number1)
@@ -23,7 +23,7 @@ while True:
 
         number = number1 / number2
         total += number
-        
+
     else:
         number = "".join(number)
         number = float(number)

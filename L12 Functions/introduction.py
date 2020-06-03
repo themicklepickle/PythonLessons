@@ -15,7 +15,6 @@ def FUNCTIONNAME(PAR1, PAR2, ...):
     function
 """
 
-
 """
 #function which prints out 5 stars in a row
 def print_five_stars():
@@ -25,7 +24,6 @@ def print_five_stars():
 print_five_stars()
 """
 
-
 """
 #number of arguments must match number of parameters
 def my_function(fname):
@@ -34,7 +32,6 @@ def my_function(fname):
 my_function("Emil")
 my_function("Tobias")
 """
-
 
 """
 #first and last name
@@ -55,7 +52,6 @@ print_char("Blah")
 print_char("!" + "?")
 """
 
-
 """
 #pass by value
 def add_one(num):
@@ -67,7 +63,6 @@ print("Value of num in function is", num)
 add_one(num)
 print("Value of num in function is", num)
 """
-
 
 """
 #multiplication
@@ -81,7 +76,6 @@ result = multiply(x, y)
 print(x, "times", y, "=", result)
 """
 
-
 """
 
 #prints 10 newlines
@@ -90,7 +84,6 @@ def tenNewLines():
 
 tenNewLines()
 """
-
 
 """
 #takes an int and returns its square
@@ -101,7 +94,6 @@ integer = int(input("Please enter an integer: "))
 result = square(integer)
 print("The square of", integer, "is", result)
 """
-
 
 """
 #shorts or pants

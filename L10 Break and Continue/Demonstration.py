@@ -1,4 +1,4 @@
-#using break
+# using break
 for i in range(10):
     if i == 7:
         break
@@ -7,7 +7,7 @@ print("All done!")
 
 print()
 
-#using continue
+# using continue
 for i in range(10):
     if i == 7:
         continue

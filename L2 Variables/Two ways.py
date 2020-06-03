@@ -1,8 +1,8 @@
-#asking for a user's age
+# asking for a user's age
 
 print("FIRST METHOD")
 
-#first method: cast the variable
+# first method: cast the variable
 age = input("Please enter your age: ")
 age = int(age)
 print("You are", age, "years old.")

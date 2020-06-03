@@ -2,5 +2,5 @@ x = range(6)
 for n in x:
     print(n)
 
-#Syntax
+# Syntax
 range(start, stop, step)

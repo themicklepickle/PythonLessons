@@ -1,4 +1,4 @@
-exponent = lambda x, y = 1 : x ** y
+exponent = lambda x, y=1: x ** y
 ''' Returns x^y
 
     Parameters x and y can be any integer (positive or negative). If parameter y

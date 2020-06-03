@@ -1,7 +1,7 @@
-#turtle module
+# turtle module
 import turtle
 
-turtle.shape ("arrow")
+turtle.shape("arrow")
 
 turtle.up()
 turtle.setpos((-300, -100))
@@ -32,7 +32,7 @@ turtle.lt(90)
 turtle.fd(75)
 
 turtle.up()
-turtle.setpos((-25,-100))
+turtle.setpos((-25, -100))
 turtle.pendown()
 turtle.lt(90)
 turtle.fd(200)
@@ -41,13 +41,13 @@ turtle.fd(100)
 turtle.lt(90)
 turtle.fd(100)
 turtle.up()
-turtle.setpos((75,100))
+turtle.setpos((75, 100))
 turtle.pendown()
 turtle.rt(90)
 turtle.fd(200)
 
 turtle.up()
-turtle.setpos((100,-100))
+turtle.setpos((100, -100))
 turtle.pendown()
 turtle.setpos(150, 100)
 turtle.setpos(200, -100)
@@ -66,4 +66,3 @@ turtle.lt(90)
 turtle.fd(200)
 turtle.lt(90)
 turtle.fd(75)
-

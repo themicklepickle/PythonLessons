@@ -1,6 +1,7 @@
 def my_function(food):
-  for x in food:
-    print(x, end = " ")
+    for x in food:
+        print(x, end=" ")
+
 
 fruits = ["apple", "banana", "cherry"]
 

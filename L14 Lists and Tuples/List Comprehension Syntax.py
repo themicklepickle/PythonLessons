@@ -9,7 +9,6 @@ for i in range(10):
 print(x)
 """
 
-
 # [expression] for [item] in [list] if [condition]
 """
 x = [i ** 2 for i in range(10) if i % 2 == 0]
@@ -20,7 +19,6 @@ for i in range(10):
 		x.append(i ** 2)
 print(x)
 """
-
 
 # [expression] if [condition] else [condition] for [item] in [list]
 """
@@ -35,4 +33,3 @@ for i in range(10):
 		x.append(-i)
 print(x)
 """
-
